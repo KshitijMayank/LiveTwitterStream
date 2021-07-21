@@ -1,0 +1,5 @@
+#credentials.py
+API_KEY = 'BMnbALTanLCcTZq4SuBqHxwQa'
+API_SECRET_KEY = 'uf6yzymTyrX6G313Wam4zcqAm4MKNpaf4YFxMUcVb6dVyQTtyb'
+ACCESS_TOKEN = '1191970425095565313-GIu4JiaZ7UcvEpOVosmYWPzirSadEd'
+ACCESS_TOKEN_SECRET = 'ewawjzDlTmmaSZFiWDlqhTlEESFfzx5LCHZwrwtgtcqPi'
